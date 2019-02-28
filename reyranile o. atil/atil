@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<style>
+			h1 {
+				color: blue;
+				text-align: center;		
+	
+			}
+			p {
+				color: green;
+			}
+			p1 {
+				color: red;
+		</style>
+	</head>
+	<body>
+		<h1 id= "mainheading" title = "bangbang" >Mobile Legends</h1>
+		<p id= "first Paragraph" title = "5 seconds before the enemy reaches the battle field" > Welcome to Mobile Legend</p>
+<hr>
+		<p1 id = "second paragraph" title = "request back up" > Smash them all troops deployed</p1>
+	</body>
+</html>
+
