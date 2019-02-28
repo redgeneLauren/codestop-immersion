@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style> h1{ 
+			    color: green;
+			    text-align: center;
+			    font-size: 20px; 
+			}
+			p{
+			    color: blue;
+			    font-size: 15px;
+			}
+			p1{
+			    color: blue;
+			    font-size: 15px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 id = "mainHeading" title = "lesson 3"> WELCOME </h1> <hr />
+		<p id = "firstParagraph" title = "attributes"> First lesson </p>
+		<p1 id = "secondParagraph" title = "lastword"> Seecond lesson </p1>
+	</body>			
+
+</html>
