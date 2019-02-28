@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+	<html>
+		<head>
+			<style>
+				h1 {
+					color: green;
+					text-align: center;
+				}
+				p {
+					color: purple;
+				}
+				p1 {
+					color: blue;
+			</style>
+		</head>
+		<body>
+			<h1 id= "mainheading" title = "Lesson 3">Attributes</h1>
+			<p id= "First Paragraph" title = "The concert" > Welcome to Araneta Coliseum</p>
+			<p1 id= "Second Paragraph" title = "Paragraph" > Six part invention</p1>
+		</body>
+
+</html>
