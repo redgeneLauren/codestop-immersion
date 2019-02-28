@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			h1 {
+				color: blue;
+				font-size: 20px;
+				text-align: center;
+			}
+			p {
+				color: red;
+				font-size: 15px;
+			}
+
+			p2 {
+				color: red;
+				font-size: 15px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 id="mainheading" title="Heading" >Welcome to University of Cebu</h1>
+		<hr>
+		<p id="firstparagraph" title="Joke" >Free Tuition</p>
+		<p2 id="secondparagraph" title="charot" >Top 10 Most Preffered School in Cebu</p2>
+	</body>
+</html>
+
+					
